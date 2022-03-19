@@ -26,10 +26,10 @@ body {
 }
 
  button {
-     position: relative;
-     left:5px;
-     top:5px;
-     width:70px;
+     position: absolute;
+     left:2px;
+     top:2px;
+     width:50px;
      height:40px;
      box-shadow:2px 2px 5px rgba(0, 0, 0, 0.253);
  }
