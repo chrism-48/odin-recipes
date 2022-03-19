@@ -28,7 +28,7 @@ body {
  button {
      position: relative;
      left:5px;
-     top:5px;
+     top:35px;
      width:70px;
      height:40px;
      box-shadow:2px 2px 5px rgba(0, 0, 0, 0.253);
