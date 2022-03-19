@@ -26,7 +26,7 @@ body {
 }
 
  button {
-     position: absolute;
+     position: relative;
      left:5px;
      top:5px;
      width:70px;
